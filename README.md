@@ -12,4 +12,5 @@
 2. 导入脚本
 3. 运行脚本
 
-![1582687068214](./images/autojs.jpg)
+
+<img src="./images/autojs.jpg"  height="500" width="300">
